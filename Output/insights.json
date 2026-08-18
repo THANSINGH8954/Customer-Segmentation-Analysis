@@ -1,0 +1,7 @@
+[
+  "K-Means clustering was evaluated for K=2 through K=10 using the elbow method and silhouette score. The purely statistical optimum was K=3, but it merged behaviorally distinct groups together. K=5 was selected instead (silhouette score 0.39) to produce segments the marketing team can act on independently.",
+  "'High-Value Loyalists' is the highest-value segment, averaging $4,120 in total spend (18.3% of the customer base) and should be prioritized for loyalty and retention investment.",
+  "'New / Low-Engagement' has the highest average recency (80 days since last purchase), signaling elevated churn risk and a need for a targeted win-back campaign.",
+  "Annual income and total spend correlate at r=0.65, while purchase frequency and total spend correlate at r=0.55 -- behavioral data (frequency, recency) is a stronger driver of customer value than income alone, and should be weighted accordingly in targeting decisions.",
+  "Segment-specific marketing is recommended over one-size-fits-all campaigns: high-value segments respond to loyalty/exclusivity messaging, while low-engagement/new segments respond better to onboarding incentives and low-friction first/second-purchase offers."
+]
