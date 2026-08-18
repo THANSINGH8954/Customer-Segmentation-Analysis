@@ -1,0 +1,18 @@
+# Core data analysis
+pandas>=2.1
+numpy>=1.26
+
+# Machine learning (clustering, PCA, scaling, metrics)
+scikit-learn>=1.4
+
+# Visualization (notebook / static charts)
+matplotlib>=3.8
+seaborn>=0.13
+
+# Interactive dashboard
+streamlit>=1.32
+plotly>=5.20
+
+# Notebook execution (optional, only needed to open/edit the .ipynb yourself)
+jupyter>=1.0
+notebook>=7.0

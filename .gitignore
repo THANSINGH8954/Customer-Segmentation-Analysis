@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# This raw ground-truth file exists only to validate the clustering during
+# development -- it is not a real-world column and should not be treated as
+# an input feature. Kept out of the repo to avoid confusion / accidental use.
+data/ground_truth_segments_FOR_VALIDATION_ONLY.csv
